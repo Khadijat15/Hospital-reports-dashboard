@@ -1,7 +1,7 @@
 # 📉 Hospital Reports Dashboard Using Excel
 
 ## 🔍 Project Overview
-This is project is an interactive dashboard on hospital reports built using excel. The Dashboard shows:
+This project is an interactive dashboard on hospital reports built using Excel. The Dashboard shows:
 - Total revenue by year
 - Number of Patients by Diagnosis
 - Yearly revenue by Department
