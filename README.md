@@ -25,5 +25,9 @@ This project is an interactive dashboard on hospital reports built using Excel. 
 - Pediatrics Department has the highest number of patients over the years
 
 ## 📷 Dashboard 
+![Dashboard Preview] (Hospital report dashboard)
 
 ## 🗃️ Files 
+- 'Hospital_Health_Report' : Main Excel File
+- 'Hospital report dashboard': Dashboard image preview
+- 'README.md': This file
